@@ -8,7 +8,7 @@ Stopsort puts your stops in the fastest order. Add addresses in any order, tap S
 
 **How do I restore my purchase?** Open Settings in Stopsort and tap Restore purchase. Use the same Apple ID you bought with.
 
-**Why does Navigate open only some of my stops?** Apple Maps takes up to 15 stops in one go and Google Maps up to 10. Waze takes one stop at a time. When you finish that part of the route, tap Navigate again for the rest.
+**Why does Navigate open only some of my stops?** Apple Maps takes up to 15 stops in one go (on iOS 18.4 or later; one at a time before that) and Google Maps up to 10. Waze takes one stop at a time. When you finish that part of the route, tap Navigate again for the rest.
 
 **How many stops can a route have?** Free routes hold up to 12 stops. Stopsort Pro sorts up to 200.
 
