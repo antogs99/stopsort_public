@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** October 25, 2026
+**Effective Date:** November 2, 2026
 **App:** Stopsort
 **Developer:** antogs99
 **Contact:** antogs99@gmail.com
@@ -27,7 +27,7 @@ Using your current location as a route's start needs location permission. You ca
 
 ## 6. In-App Purchases
 
-Stopsort is free to download and use, including unlimited routes of up to 12 stops, sorting, navigation and one folder holding up to two routes. Stopsort Pro is a one-time, non-consumable purchase that unlocks routes of up to 200 stops, pasting a list of addresses, done and failed marks, sharing routes, and unlimited folders. Purchases are processed by Apple and are subject to Apple's terms. Family Sharing is enabled for Stopsort Pro. You can restore a previous purchase from Settings.
+Stopsort is free to download and use, including 2 routes of up to 5 stops each, sorting, navigation and one folder. Stopsort Pro is a one-time, non-consumable purchase that unlocks unlimited routes of up to 200 stops, pasting a list of addresses, done and failed marks, sharing routes, and unlimited folders. Purchases are processed by Apple and are subject to Apple's terms. Family Sharing is enabled for Stopsort Pro. You can restore a previous purchase from Settings.
 
 ## 7. No Subscription and No Ads
 

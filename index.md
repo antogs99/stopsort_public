@@ -10,9 +10,9 @@ Stopsort puts your stops in the fastest order. Add addresses in any order, tap S
 
 **Why does Navigate open only some of my stops?** Apple Maps takes up to 15 stops in one go (on iOS 18.4 or later; one at a time before that) and Google Maps up to 10. Waze takes one stop at a time. When you finish that part of the route, tap Navigate again for the rest.
 
-**How many stops can a route have?** Free routes hold up to 12 stops. Stopsort Pro sorts up to 200.
+**How many routes and stops can I have?** Free has 2 routes of up to 5 stops each. Stopsort Pro has unlimited routes of up to 200 stops.
 
-**What are folders for?** Keep routes together by client, day or job. Free has one folder with up to two routes; Pro has no limit. Deleting a folder keeps its routes.
+**What are folders for?** Keep routes together by client, day or job. Free has one folder; Pro has no limit. Deleting a folder keeps its routes.
 
 **Can I paste a list of addresses?** Yes, with Pro. Put one address per line (or separate them with semicolons). Numbering like "1." or "-" is ignored. Include the city and state for best results.
 
